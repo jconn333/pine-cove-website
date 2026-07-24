@@ -19,7 +19,7 @@ function makeHeader(currentPage) {
     <header class="site-header" id="site-header">
       <div class="nav-wrap">
         <a class="brand brand-inline" href="index.html" aria-label="Pine Cove home">
-          <span class="brand-mark">Pine Cove</span>
+          <span class="brand-mark">Pine Cove Lodging</span>
         </a>
         <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="primary-nav">
           <span class="nav-toggle__bar"></span>
@@ -40,7 +40,7 @@ function makeFooter() {
     <footer class="site-footer">
       <div class="footer-inner">
         <div>
-          <div class="brand-mark" style="color:var(--ink)">Pine Cove</div>
+          <div class="brand-mark" style="color:var(--ink)">Pine Cove Lodging</div>
           <p style="color:var(--muted);margin:0.5rem 0 0">Romantic stays in Berlin, Ohio &mdash; farmhouse suites, cabins &amp; treehouses.</p>
         </div>
         <ul class="footer-links">
