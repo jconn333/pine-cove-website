@@ -143,7 +143,7 @@ const units = [
     type: "Couples treehouse",
     highlight: "An elevated treehouse for two with an outdoor hot tub, kitchenette, fireplace, and two-person jetted tub.",
     amenities: ["Outdoor hot tub", "Kitchenette", "Fireplace", "Jetted tub", "Smart TV", "WiFi"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214138",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214138",
     image: "assets/images/Exterior-1296x916.jpg"
   },
   {
@@ -153,7 +153,7 @@ const units = [
     type: "Couples treehouse",
     highlight: "A wooded treehouse for two with a full kitchen, fireplace, and two-person jetted tub.",
     amenities: ["Full kitchen", "Fireplace", "Jetted tub", "Smart TV", "WiFi", "Private parking"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214137",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214137",
     image: "assets/images/lofty-willows-exterior-slide-1296x916.jpg"
   },
   {
@@ -163,7 +163,7 @@ const units = [
     type: "Hot tub treehouse",
     highlight: "A secluded treehouse for two with an outdoor hot tub, full kitchen, fireplace, and jetted tub.",
     amenities: ["Outdoor hot tub", "Full kitchen", "Fireplace", "Jetted tub", "Smart TV", "WiFi"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214139",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214139",
     image: "assets/images/whispering-pines-exterior-slide-1296x916.jpg"
   },
   {
@@ -173,7 +173,7 @@ const units = [
     type: "Private cabin",
     highlight: "A standalone cabin for up to four with a three-person hot tub, full kitchen, fireplace, and two-person jetted tub.",
     amenities: ["3-person hot tub", "Full kitchen", "Fireplace", "Jetted tub", "2 queen beds", "Smart TV"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214132",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214132",
     image: "assets/images/evergreen-cabin-exterior-overview.jpg"
   },
   {
@@ -183,7 +183,7 @@ const units = [
     type: "Farmhouse suite",
     highlight: "A farmhouse suite with a king bed, fireplace, kitchenette, and two-person jetted tub.",
     amenities: ["Fireplace", "Kitchenette", "Jetted tub", "King bed", "Smart TV", "WiFi"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214133",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214133",
     image: "assets/images/barn-suite-overview.jpg"
   },
   {
@@ -193,7 +193,7 @@ const units = [
     type: "Farmhouse suite",
     highlight: "An elegant couples suite with a king bed, fireplace, kitchenette, and two-person jetted tub.",
     amenities: ["Fireplace", "Kitchenette", "Jetted tub", "King bed", "Smart TV", "WiFi"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214135",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214135",
     image: "assets/images/parlor-suite-overview.jpg"
   },
   {
@@ -203,7 +203,7 @@ const units = [
     type: "Farmhouse suite",
     highlight: "A romantic farmhouse suite with a king bed, fireplace, kitchenette, and two-person jetted tub.",
     amenities: ["Fireplace", "Kitchenette", "Jetted tub", "King bed", "Smart TV", "WiFi"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214134",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214134",
     image: "assets/images/magnolia-suite-overview.jpg"
   },
   {
@@ -213,7 +213,7 @@ const units = [
     type: "Two-bedroom suite",
     highlight: "A spacious two-bedroom, two-bathroom farmhouse suite with two king beds, fireplace, and jetted tub — ideal for two couples.",
     amenities: ["2 bedrooms", "2 bathrooms", "Fireplace", "Kitchen", "Jetted tub", "Sleeps 4"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214136",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214136",
     image: "assets/images/silo-suite-overview.jpg"
   },
   {
@@ -223,7 +223,7 @@ const units = [
     type: "Farmhouse suite",
     highlight: "A cozy king suite with a fireplace, kitchenette, and two-person jetted tub in the Pine Cove farmhouse.",
     amenities: ["Fireplace", "Kitchenette", "Jetted tub", "King bed", "Smart TV", "WiFi"],
-    bookingUrl: "https://book.amishcountrylodging.com/listings/214140",
+    bookingUrl: "https://reserve.amishcountrylodging.com/listings/214140",
     image: "assets/images/cottonwood-suite-overview.jpg"
   }
 ];
